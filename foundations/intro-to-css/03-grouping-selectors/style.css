@@ -1,0 +1,8 @@
+.first {
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 0%);
+}
+
+.second {
+    background-color: hsl(121, 100%, 33%);
+}
