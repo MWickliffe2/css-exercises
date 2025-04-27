@@ -20,12 +20,13 @@ body {
 .header_left {
   display: flex;
   align-items: center;
+  gap: 16px;
 }
 
 .header_right {
   display: flex;
   align-items: center;
-  /* justify-content: flex-end; */
+  gap: 16px;
 }
 
 .profile-image {
