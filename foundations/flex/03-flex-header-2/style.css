@@ -3,8 +3,6 @@ you'll learn about it later. */
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400;1,900&display=swap');
 
 body {
-  display: flex;
-  justify-content: space-between;
   margin: 0;
   background: #eee;
   font-family: Besley, serif;
@@ -12,6 +10,7 @@ body {
 
 .header {
   display: flex;
+  justify-content: space-between;
   background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0, 0, 0, .1);
