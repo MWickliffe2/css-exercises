@@ -10,6 +10,9 @@ img {
 .header {
   display: flex;
   justify-content: space-between;
+  margin: 0;
+  padding: 0;
+  gap: 52px;
 }
 
 .title {
