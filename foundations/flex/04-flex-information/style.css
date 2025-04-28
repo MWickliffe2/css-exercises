@@ -9,7 +9,7 @@ img {
 
 .header {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   margin: 0;
   padding: 0;
   gap: 52px;
