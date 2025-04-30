@@ -40,7 +40,8 @@ body {
 }
 
 .not-icon {
-  padding: 15px;
+  padding-left: 15px;
+  align-text: left;
 }
 
 .header {
