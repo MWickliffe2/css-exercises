@@ -47,6 +47,8 @@ body {
 .header {
   display: flex;
   justify-content: space-between;
+  font-weight: bold;
+  font-size: 20px;
 }
 
 .close-button {
