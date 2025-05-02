@@ -18,7 +18,7 @@ img {
 .header {
   display: flex;
   justify-content: space-between;
-  /* padding: 20px; */
+  padding: 20px;
 }
 
 button {
@@ -50,6 +50,7 @@ a {
   background-color: #eeeeee;
   display: flex;
   justify-content: space-between;
+  padding: 20px;
 }
 
 div ul {
