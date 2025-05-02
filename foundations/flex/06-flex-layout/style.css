@@ -48,3 +48,8 @@ a {
   display: flex;
   justify-content: space-between;
 }
+
+div ul {
+  display: flex;
+  justify-content: space-between;
+}
