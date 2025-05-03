@@ -8,18 +8,18 @@ body {
   display: flex;
   justify-content: space-between;
   flex-direction: column;
-  text-align: center;
+  /* text-align: center; */
 }
 
 img {
   width: 600px;
 }
 
-.header {
+/* .header {
   display: flex;
   justify-content: space-between;
   padding: 20px;
-}
+} */
 
 .content {
   display: flex;
@@ -44,9 +44,11 @@ input {
 }
 
 ul {
+  display: flex;
   list-style-type: none;
   padding: 0;
   margin: 0;
+  gap: 20px;
 }
 
 a {
@@ -56,13 +58,21 @@ a {
 
 .footer {
   background-color: #eeeeee;
-  display: flex;
+  /* display: flex;
   justify-content: space-between;
-  padding: 20px;
+  padding: 20px; */
 }
 
-div ul {
+/* div ul {
   display: flex;
   justify-content: space-between;
   gap: 20px;
-}
+} */
+
+.header,
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    gap: 20px;
+  }
