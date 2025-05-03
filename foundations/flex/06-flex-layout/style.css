@@ -8,18 +8,11 @@ body {
   display: flex;
   justify-content: space-between;
   flex-direction: column;
-  /* text-align: center; */
 }
 
 img {
   width: 600px;
 }
-
-/* .header {
-  display: flex;
-  justify-content: space-between;
-  padding: 20px;
-} */
 
 .content {
   display: flex;
@@ -58,16 +51,7 @@ a {
 
 .footer {
   background-color: #eeeeee;
-  /* display: flex;
-  justify-content: space-between;
-  padding: 20px; */
 }
-
-/* div ul {
-  display: flex;
-  justify-content: space-between;
-  gap: 20px;
-} */
 
 .header,
 .footer {
