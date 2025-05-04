@@ -36,6 +36,12 @@ body {
   min-width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  padding: 16px;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
 }
 
 li {
