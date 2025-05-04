@@ -36,7 +36,11 @@ body {
   min-width: 300px;
   background: royalblue;
   box-sizing: border-box;
-  /* display: flex; */
+}
+
+a {
+  color: white;
+  text-decoration: none;
 }
 
 .card {
