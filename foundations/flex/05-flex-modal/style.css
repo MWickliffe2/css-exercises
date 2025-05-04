@@ -40,10 +40,6 @@ body {
   flex-shrink: 0;
 }
 
-/* .not-icon {
-  padding-left: 15px;
-} */
-
 .header {
   display: flex;
   justify-content: space-between;
