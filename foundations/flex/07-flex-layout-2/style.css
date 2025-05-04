@@ -58,6 +58,7 @@ a {
 .cards {
   display: flex;
   flex-flow: row wrap;
+  padding: 48px;
 }
 
 .card {
